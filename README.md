@@ -1,5 +1,3 @@
-[![mihaigabriel16's GitHub stats]
-
 ## GitHub Stats
 
 <table>
