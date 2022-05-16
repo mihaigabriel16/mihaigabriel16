@@ -1,4 +1,6 @@
-[![mihaigabriel16's GitHub stats](https://github-readme-stats.vercel.app/api?username=mihaigabriel16&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![mihaigabriel16's GitHub stats]
+
+## GitHub Stats
 
 <table>
    <tr>
