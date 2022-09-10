@@ -11,4 +11,4 @@
    </tr>
 </table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mihaigabriel16&langs_count=8&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mihaigabriel16&layout=compact)](https://github.com/mihaigabriel16/github-readme-stats)
