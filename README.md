@@ -9,9 +9,6 @@
          <img src="https://github-readme-streak-stats.herokuapp.com/?user=mihaigabriel16&theme=react" align="left" style="width: 100%" />
       </td>
    </tr>
-   <tr>
-      <td valign="top" colspan="2">
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihaigabriel16&hide_border=true&layout=compact&theme=react" align="left" style="width: 100%"/>
-      </td>
-   </tr>
 </table>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mihaigabriel16&langs_count=8&theme=react)](https://github.com/anuraghazra/github-readme-stats)
